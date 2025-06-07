@@ -1,0 +1,10 @@
+[package]
+name = "paster"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arboard = "3.5.0"
+enigo = "0.4.0"
+device_query = "3.0.1"
+rand = "0.9.1"
